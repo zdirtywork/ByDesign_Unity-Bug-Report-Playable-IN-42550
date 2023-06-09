@@ -1,4 +1,7 @@
-# Unity-Bug-Report-Playable-IN-42250
+# [By Design] Unity-Bug-Report-Playable-IN-42250
+
+**Unity has stated that this was intentional by design.**
+> even though the implementation exposes a limitation, it is expected behavior.
 
 ## About this issue
 
